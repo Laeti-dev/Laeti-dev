@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a website and a portfolio using Gatsby (React/Node) and integrating the facebook basic display API to render instagram pictures.
-- 🌱 I’m currently learning React and getting deeper understanding of Vanilla Javascript.
+- 🔭 I’m currently working on a website and a portfolio using Gatsby (React/Node) and integrating the facebook basic display API to render instagram pictures. Don't mock me but no! it is not that simple :see_no_evil:.
+- 🌱 I’m currently learning React and getting deeper understanding of Vanilla Javascript (My little favorite).
+- 🤔 I could definitely use some help with this not friendly Instagram API
 - :airplane: My cultural background: I'm from French Guyane :french_guiana: (South America), I lived 8 years in Canada :canada: and 5 years in Japan :jp:. Moving to France :fr: in may 2022.
 - :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and trying to improve my :es: A2.
 - :zap: About me: Except from learning about coding languages, I love learning about wine and practice outside activities especially hiking and surfing. And of course, learning human languages. 

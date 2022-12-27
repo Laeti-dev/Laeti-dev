@@ -1,13 +1,14 @@
-### Hi there I'm Laeti, a fullstack developer👋
+### Hi there I'm Laeti, a soon to be data analyst with a fullstack developer background👋
 
 
 
-- 💻 I’m currently working on a website and a portfolio using Gatsby (React/Node) and integrating the facebook basic display API to render instagram pictures. Don't mock me but no! it is not that simple :see_no_evil:.
-- 📖 I’m currently learning React and getting deeper understanding of Vanilla Javascript (My little favorite).
-- 🤔 I could definitely use some help with this not friendly Instagram API
+- :chart_with_upwards_trend: I am enrolled at Matrice in Paris to become a data Analyst.
+- :computer: I am certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
+- :robot: When I'll master data management, I will follow Artificial Intelligence path (after a looooot of math practice :books:)
 - :airplane: My cultural background: I'm from French Guyane :french_guiana: (South America), I lived 8 years in Canada :canada: and 5 years in Japan :jp:. I'm now back to France :fr:.
 - :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and trying to improve my :es: A2.
-- 🤓 About me: Except from learning about stacks, I love wine and I practice outside activities especially hiking & surfing. And of course, learning human languages. 
+- 🤓 About me: Except from learning about stacks, I love wine. I am super curious and wish to share about tech innovative tools with others. I care about environment and health progress. 
+- Dream job : Have a positive impact on society, work on connecting people between them / to earth, lower individualism / carbon footprint.
 
 <h3 align="left">Languages and Tools:</h3>
   

@@ -2,10 +2,10 @@
 
 
 
-- :chart_with_upwards_trend: I am enrolled at Matrice in Paris to become a data Analyst.
-- :computer: I am certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
-- :robot: When I'll master data management, I will follow Artificial Intelligence path (after a looooot of math practice :books:)
-- :airplane: My cultural background: I'm from French Guyane :french_guiana: (South America), I lived 8 years in Canada :canada: and 5 years in Japan :jp:. I'm now back to France :fr:.
+- :chart_with_upwards_trend: Working as a data Analyst.
+- :computer: Certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
+- :robot: Learning my way to machine learning (heavy help with "Hands-on Machine Learning with Scikit-Learn, Keras 7 TensorFlow" :books:)
+- :airplane: Multicultural backgroung: Originally from French Guyane :french_guiana: (South America), lived 8 years in Canada :canada: and 5 years in Japan :jp:. Actually in France :fr:.
 - :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and trying to improve my :es: A2.
 - 🤓 About me: Except from learning about stacks, I love wine. I am super curious and wish to share about tech innovative tools with others. I care about environment and health progress. 
 - :heart_on_fire: Dream job : Have a positive impact on society, work on connecting people between them / to earth, lower individualism / carbon footprint.

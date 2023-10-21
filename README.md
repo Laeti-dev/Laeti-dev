@@ -1,4 +1,4 @@
-### Hi there I'm Laeti, a soon to be data analyst with a fullstack developer background👋
+### Hi there I'm Laeti, a data analyst with a fullstack developer background👋
 
 
 

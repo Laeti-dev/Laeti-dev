@@ -23,5 +23,5 @@
 
 <h3>Contact</h3>
 
-<a href="https://www.linkedin.com/in/laetitia-ikusawa" rel="nofollow"><img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 10%"> </a>
+<a href="https://www.linkedin.com/in/laetitia-ikusawa" rel="nofollow"><img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 20%"> </a>
 

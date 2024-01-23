@@ -2,7 +2,7 @@
 
 
 
-- :chart_with_upwards_trend: Working as a data Analyst.
+- :chart_with_upwards_trend: Data analyst getting an expertise in Data science.
 - :computer: Certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
 - :robot: Learning my way to machine learning (heavy help with "Hands-on Machine Learning with Scikit-Learn, Keras 7 TensorFlow" :books:)
 - :airplane: Multicultural backgroung: Originally from French Guyana :french_guiana: (South America), lived 8 years in Canada :canada: and 5 years in Japan :jp:. Actually in France :fr:.

@@ -6,7 +6,7 @@
 - :computer: Certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
 - :robot: Learning my way to machine learning (heavy help with "Hands-on Machine Learning with Scikit-Learn, Keras 7 TensorFlow" :books:)
 - :airplane: Multicultural backgroung: Originally from French Guyana :french_guiana: (South America), lived 8 years in Canada :canada: and 5 years in Japan :jp:. Actually in France :fr:.
-- :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and trying to improve my :es: A2.
+- :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and :es: A2.
 - 🤓 About me: Wine & coffee lover. Developping my green thumb :potted_plant:. Started to love sports a decade ago through daily workout routine :weight_lifting_woman:. Would like to find a place for fencing :person_fencing: and surfing :surfing_woman:
 - :heart_on_fire: Dream job : code, code, code and learn more, <font size=2>more</font>, <font size=3>more</font> surrounded by passionate and caring people.
 - :globe_with_meridians: My portfolio @ <a href="https://www.laeti-dev.com" rel="nofollow">laeti-dev.com</a>

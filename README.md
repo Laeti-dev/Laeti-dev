@@ -1,10 +1,9 @@
 ### Hi there I'm Laeti, a data analyst with a fullstack developer background👋
 
 
-
+- :robot: AI engineer apprentice until 2026 with OpenClassrooms.
 - :chart_with_upwards_trend: Data analyst getting an expertise in Data science.
 - :computer: Certified Fullstack Developer with Le Wagon Tokyo (Ruby on Rails).
-- :robot: AI engineer apprentice until 2026 with OpenClassrooms.
 - :airplane: Multicultural backgroung: Originally from French Guyana :french_guiana: (South America), lived 8 years in Canada :canada: and 5 years in Japan :jp:. Actually in France :fr:.
 - :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and :es: A2.
 - 🤓 About me: Wine & coffee lover. Developping my green thumb :potted_plant:. Started to love sports a decade ago through daily workout routine :weight_lifting_woman:. Would like to find a place for fencing :person_fencing: and surfing :surfing_woman:

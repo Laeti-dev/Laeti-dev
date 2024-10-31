@@ -8,7 +8,6 @@
 - :loudspeaker: Ways to communicate with me: :fr: native, :us: TOEIC 960, :jp: JLPT N2 and :es: A2.
 - 🤓 About me: Wine & coffee lover. Developping my green thumb :potted_plant:. Started to love sports a decade ago through daily workout routine :weight_lifting_woman:. Would like to find a place for fencing :person_fencing: and surfing :surfing_woman:
 - :heart_on_fire: Dream job : code, code, code and learn more, <font size=2>more</font>, <font size=3>more</font> surrounded by passionate and caring people.
-- :globe_with_meridians: My portfolio @ <a href="https://www.laeti-dev.com" rel="nofollow">laeti-dev.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
